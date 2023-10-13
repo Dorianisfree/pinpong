@@ -1,0 +1,56 @@
+rus:
+
+===================================================================================================
+
+Цель проекта - создать простую кооперативную игру для игровой сессии для 2 человек
+
+===================================================================================================
+
+Разработанный проект включает в себя компоненты:
+1) Програмный файл написанный на языке программирования python.
+2) В прокте задействованы изображения взятые из интернета. Примеры: задний фон, мячик, ракетки.
+
+===================================================================================================
+
+Отличительные особенности проекта:
+1) 'Пин понг' - это кооперативная игра до двух человек
+2) В игре есть условия выигрыша и проигыша 
+3) Увлекательный гейплей, который не дает заскучать 
+
+eng:
+
+===================================================== ====================================================
+
+The goal of the project is to create a simple cooperative game for a gaming session for 2 people
+
+===================================================== ====================================================
+
+The developed project includes the following components:
+1) A program file written in the python programming language.
+2) The project uses images taken from the Internet. Examples: background, ball, rackets.
+
+===================================================== ====================================================
+
+Distinctive features of the project:
+1) 'Pin Pong' is a cooperative game for up to two people
+2) The game has win and loss conditions
+3) Addictive gameplay that doesn’t let you get bored
+
+ital:
+
+================================================== === =============================================== =====
+
+L'obiettivo del progetto è creare un semplice gioco cooperativo per una sessione di gioco per 2 persone
+
+================================================== === =============================================== =====
+
+Il progetto sviluppato comprende i seguenti componenti:
+1) Un file di programma scritto nel linguaggio di programmazione Python.
+2) Il progetto utilizza immagini prese da Internet. Esempi: sfondo, palla, racchette.
+
+================================================== === =============================================== =====
+
+Caratteristiche distintive del progetto:
+1) 'Pin Pong' è un gioco cooperativo per un massimo di due persone
+2) Il gioco prevede condizioni di vittoria e sconfitta
+3) Gameplay avvincente che non ti lascia annoiare
